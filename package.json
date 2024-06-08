@@ -1,0 +1,30 @@
+{
+  "name": "blog_f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellooDev/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "f8"
+  ],
+  "author": "mellooDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mellooDev/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/mellooDev/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
